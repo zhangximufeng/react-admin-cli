@@ -73,27 +73,27 @@ react system solution
 
 ### 功能截图
 #### 首页
-![截图](https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/imgs/rd1.gif)
+![截图](https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/screenshots/rd1.gif)
 #### 按钮图标等
-![截图](https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/imgs/rd2.gif)
+![截图](https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/screenshots/rd2.gif)
 #### 轮播图
-![截图](https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/imgs/rd3.gif)
+![截图](https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/screenshots/rd3.gif)
 #### 富文本
-![截图](https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/imgs/rd4.gif)
+![截图](https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/screenshots/rd4.gif)
 #### 拖拽
-![截图](https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/imgs/rd5.gif)
+![截图](https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/screenshots/rd5.gif)
 #### 画廊
-![截图](https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/imgs/rd6.gif)
+![截图](https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/screenshots/rd6.gif)
 #### 动画
-![截图](https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/imgs/rd7.gif)
+![截图](https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/screenshots/rd7.gif)
 #### 表格
-![截图](https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/imgs/rd8.gif)
+![截图](https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/screenshots/rd8.gif)
 #### 表单
-![截图](https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/imgs/rd9.gif)
+![截图](https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/screenshots/rd9.gif)
 #### 图表
-![截图](https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/imgs/rd10.gif)
+![截图](https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/screenshots/rd10.gif)
 #### 页面
-![截图](https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/imgs/rd11.gif)
+![截图](https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/screenshots/rd11.gif)
 
 ### 代码目录
 ```js
