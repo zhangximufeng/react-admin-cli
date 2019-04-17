@@ -3,14 +3,13 @@ react system solution
 
 <img src="https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/screenshots/logo.png" alt="logo" width="150" height="53" />
 
-![travis-ci](https://travis-ci.org/zhangximufeng/react-admin-cli.svg?branch=master)
 
 ### 前言
 > 网上react后台管理开源免费的完整版项目比较少，所以利用空余时间集成了一个版本出来，已放到GitHub
   启动和打包的时间都稍长，请耐心等待两分钟
 
 - [GitHub地址](https://github.com/zhangximufeng/react-admin-cli)
-- [预览地址](https://gitpage)(已增加响应式，可手机预览😄)
+- [预览地址](https://zhangximufeng.github.io/react-admin-cli)(已增加响应式，可手机预览😄)
 
 ### 依赖模块
 <span style="color: rgb(184,49,47);">项目是用create-react-app创建的，主要还是列出新加的功能依赖包</span>

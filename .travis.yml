@@ -3,7 +3,7 @@ before_install:
   - export PATH="$HOME/.yarn/bin:$PATH"
 language: node_js
 node_js:
-  - "8"
+  - "10"
 script:
   - yarn
   - yarn build

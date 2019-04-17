@@ -1,6 +1,6 @@
 {
   "name": "react-admin-cli",
-  "version": "0.2.2",
+  "version": "0.2.1",
   "private": true,
   "homepage": ".",
   "dependencies": {
@@ -142,5 +142,13 @@
     "presets": [
       "react-app"
     ]
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^2.1.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
