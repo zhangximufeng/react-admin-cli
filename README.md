@@ -3,6 +3,7 @@ react system solution
 
 <img src="https://raw.githubusercontent.com/zhangximufeng/react-admin-cli/master/screenshots/logo.png" alt="logo" width="150" height="53" />
 
+![travis-ci](https://travis-ci.org/zhangximufeng/react-admin-cli.svg?branch=master)
 
 ### 前言
 > 网上react后台管理开源免费的完整版项目比较少，所以利用空余时间集成了一个版本出来，已放到GitHub
